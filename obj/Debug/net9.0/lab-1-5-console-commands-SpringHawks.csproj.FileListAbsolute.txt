@@ -1,0 +1,15 @@
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\bin\Debug\net9.0\lab-1-5-console-commands-SpringHawks.exe
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\bin\Debug\net9.0\lab-1-5-console-commands-SpringHawks.deps.json
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\bin\Debug\net9.0\lab-1-5-console-commands-SpringHawks.runtimeconfig.json
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\bin\Debug\net9.0\lab-1-5-console-commands-SpringHawks.dll
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\bin\Debug\net9.0\lab-1-5-console-commands-SpringHawks.pdb
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.AssemblyInfoInputs.cache
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.AssemblyInfo.cs
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.csproj.CoreCompileInputs.cache
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.sourcelink.json
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.dll
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\refint\lab-1-5-console-commands-SpringHawks.dll
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.pdb
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\lab-1-5-console-commands-SpringHawks.genruntimeconfig.cache
+C:\Users\14252\mySpringHawkscode\lab-1-5-console-commands-SpringHawks\obj\Debug\net9.0\ref\lab-1-5-console-commands-SpringHawks.dll

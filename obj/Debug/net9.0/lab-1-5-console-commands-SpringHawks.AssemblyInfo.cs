@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-5-console-commands-SpringHawks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b012974e0de95bbd8185cc2078238e86d4bc258")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9cdfdff63868b303d90aeec2d6a6d2f1cb98a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-5-console-commands-SpringHawks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-5-console-commands-SpringHawks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
